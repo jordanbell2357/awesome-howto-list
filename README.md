@@ -18,3 +18,14 @@ https://askubuntu.com/questions/1029177/error-1698-28000-access-denied-for-user-
 
 https://dev.to/qviper/connecting-mysql-server-in-windows-machine-from-wsl-4pf1
 
+# Hadoop
+
+https://kontext.tech/article/978/install-hadoop-332-in-wsl-on-windows
+
+https://community.cloudera.com/t5/Support-Questions/Hive-with-mysql-metastore-issue/td-p/296191
+
+https://stackoverflow.com/questions/27099898/java-net-urisyntaxexception-when-starting-hive
+
+https://kontext.tech/article/561/apache-hive-312-installation-on-linux-guide
+
+
