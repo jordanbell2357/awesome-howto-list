@@ -1,5 +1,7 @@
 # awesome-howto-list
 
+## MySQL
+
 https://ubuntu.com/server/docs/service-openssh
 
 https://kontext.tech/article/621/install-open-jdk-on-wsl
