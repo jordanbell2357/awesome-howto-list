@@ -20,6 +20,8 @@ https://dev.to/qviper/connecting-mysql-server-in-windows-machine-from-wsl-4pf1
 
 # Hadoop
 
+https://kontext.tech/article/291/apache-hive-300-installation-on-windows-10-step-by-step-guide
+
 https://kontext.tech/article/978/install-hadoop-332-in-wsl-on-windows
 
 https://community.cloudera.com/t5/Support-Questions/Hive-with-mysql-metastore-issue/td-p/296191
