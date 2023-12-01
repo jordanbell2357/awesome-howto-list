@@ -22,6 +22,8 @@ https://dev.to/qviper/connecting-mysql-server-in-windows-machine-from-wsl-4pf1
 
 https://kontext.tech/article/616/install-postgresql-on-wsl
 
+https://dev.to/sfpear/install-and-use-postgres-in-wsl-423d
+
 # Hadoop
 
 https://kontext.tech/article/291/apache-hive-300-installation-on-windows-10-step-by-step-guide
