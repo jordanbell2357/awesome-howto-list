@@ -24,6 +24,8 @@ https://kontext.tech/article/616/install-postgresql-on-wsl
 
 https://dev.to/sfpear/install-and-use-postgres-in-wsl-423d
 
+https://www.cybertec-postgresql.com/en/postgresql-on-wsl2-for-windows-install-and-setup/
+
 # Hadoop
 
 https://kontext.tech/article/291/apache-hive-300-installation-on-windows-10-step-by-step-guide
