@@ -18,6 +18,10 @@ https://askubuntu.com/questions/1029177/error-1698-28000-access-denied-for-user-
 
 https://dev.to/qviper/connecting-mysql-server-in-windows-machine-from-wsl-4pf1
 
+# PostgreSQL
+
+https://kontext.tech/article/616/install-postgresql-on-wsl
+
 # Hadoop
 
 https://kontext.tech/article/291/apache-hive-300-installation-on-windows-10-step-by-step-guide
